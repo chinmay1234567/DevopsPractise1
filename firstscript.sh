@@ -1,8 +1,8 @@
 #!/bin/bash
 #
 #
-
-
+#1
+#1
 #divisible by3, divisible 5 but not divisible by 15
 
 #
